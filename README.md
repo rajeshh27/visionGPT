@@ -1,2 +1,2 @@
 # visionGPT
-Eurka 5.0
+Eureka 5.0
